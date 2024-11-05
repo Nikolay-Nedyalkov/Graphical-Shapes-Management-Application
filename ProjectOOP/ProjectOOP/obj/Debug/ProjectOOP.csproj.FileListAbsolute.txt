@@ -1,0 +1,10 @@
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form1.resources
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\I751577\Downloads\ProjectOOP\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
